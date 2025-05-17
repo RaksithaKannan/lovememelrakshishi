@@ -1,0 +1,104 @@
+.you{
+            color: rgba(226, 79, 79, 0.718);
+            
+            text-shadow: 2px 0px 5px ;
+            text-align: center;
+            width: 600px;
+        }
+        .lover{
+            color: rgba(185, 55, 222, 0.827);
+        }
+        .none{
+            text-shadow: none;
+        }
+        .gab{
+            margin-left: 300px;
+            margin-right: 350px;
+            margin-top: 30px;
+        }
+        .line{
+            margin-top: 16px;
+
+        }
+        .luvu{
+            background-color: rgb(208, 84, 208);
+            color: rgb(219, 30, 30);
+        }
+        .thn{
+            background-color: red;
+            color: rgb(234, 129, 234);
+        }
+        .us{
+            background-color: rgb(29, 117, 185) ;
+            border: none;
+            font-size: 18px;
+            
+    padding-top: 4px ;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-bottom: 200px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: 0.2s;
+        }
+        .us:hover{
+            padding-top: 10px ;
+    padding-bottom: 10px;
+    
+             padding-left: 25px;  
+          padding-right: 25px;   
+    margin-left: 0px;    
+    margin-right: 0px;
+}
+.yout{
+    background-color: rgb(216, 73, 216);
+    border: none;
+      font-size: 18px;
+            
+    padding-top: 4px ;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 6px;
+    margin-right: 6px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+.yout:hover{
+          padding-top: 10px ;
+    padding-bottom: 10px;
+    
+             padding-left: 25px;  
+          padding-right: 25px;   
+    margin-left: 0px;    
+    margin-right: 0px;
+
+}
+.me{
+    background-color: rgb(227, 84, 84);
+    border: none;
+      font-size: 18px;
+            
+    padding-top: 4px ;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 6px;
+    margin-right: 6px;
+    cursor: pointer;
+    transition: 0.2s;
+
+}
+.me:hover{
+          padding-top: 10px ;
+    padding-bottom: 10px;
+    
+             padding-left: 25px;  
+          padding-right: 25px;   
+    margin-left: 0px;    
+    margin-right: 0px;
+
+}
